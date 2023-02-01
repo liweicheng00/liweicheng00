@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently looking for new opportunities in full stack position.
 
+<hr>
+
 ### Side project 1
 
 [Custom Domain Setting](https://sp1.liweicheng00.link/)
