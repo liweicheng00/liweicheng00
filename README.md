@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I’m currently looking for new opportunities in full stack position.
 
 ### Side project 1
 
