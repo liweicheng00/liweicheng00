@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Side project 1
+
+[Custom Domain Setting](https://sp1.liweicheng00.link/)
+
+### Side project 2 (Working on)
+[Portfolio](https://www.liweicheng00.link/)
+
+<hr>
+
+- 📫 How to reach me: livy2012@gmail.com
 <!--
 **liweicheng00/liweicheng00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
